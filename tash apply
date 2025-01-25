@@ -1,0 +1,96 @@
+[33mcommit 91ce50aba3a120f34e631fc1805c0024dd25a43d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 13:14:53 2025 +0800
+
+    Updated File
+
+[33mcommit 69816c1013ea5b64b56c03e2e056b61b3ad9553b[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 12:57:04 2025 +0800
+
+    Re-added SampleScene.unity
+
+[33mcommit 8404b210cc7c164d6ff8244a7c98aef71a7c7dee[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 12:56:43 2025 +0800
+
+    Removed SampleScene.unity from tracking to resolve conflicts
+
+[33mcommit a0e8e37d94b677e548b303588555c0521f7d5a66[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 12:52:37 2025 +0800
+
+    Resolved merge conflict in SampleScene.unity
+
+[33mcommit bd16daaf1bddb27c099a4bd1dceef9309c74a24a[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 12:46:37 2025 +0800
+
+    Resolved merge conflict in SampleScene.unity
+
+[33mcommit 1333d463716908b2868721293314501a3f0230f4[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 12:40:12 2025 +0800
+
+    Update SampleScene.unity
+
+[33mcommit 528c8909fb7ca15e418f6bb29d8e27266e736235[m
+Author: KahMeng15 <kahmeng15@gmail.com>
+Date:   Sat Jan 25 11:36:23 2025 +0800
+
+    Update SampleScene.unity
+
+[33mcommit 00dc15c98bb7c5f2dd9065d5628f65e0564a8165[m
+Author: KahMeng15 <kahmeng15@gmail.com>
+Date:   Sat Jan 25 11:16:18 2025 +0800
+
+    Tower Obstacale and cave halfway done
+
+[33mcommit 57bdef281e37c27f8f91c6471e6f6f67f4c7c6d5[m
+Merge: ccc1c73 8c3336c
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 02:58:42 2025 +0800
+
+    Resolved merge conflict in SampleScene.unity
+
+[33mcommit ccc1c732c46a0753cd1ca91612869859c43cfc9a[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Sat Jan 25 02:09:04 2025 +0800
+
+    Core Mechanics
+
+[33mcommit 8c3336c59ca1c5985b815e1d0ec54a08d79c4538[m
+Author: KahMeng15 <kahmeng15@gmail.com>
+Date:   Fri Jan 24 19:19:27 2025 +0800
+
+    Update art
+
+[33mcommit 5f7c70060a24744d803c272595f6f577e8e5b382[m
+Author: KahMeng15 <kahmeng15@gmail.com>
+Date:   Fri Jan 24 19:01:00 2025 +0800
+
+    Uploaded Art and Font
+
+[33mcommit 1d2f10704ad53a807d1945624097b45e98d74063[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Fri Jan 24 18:49:31 2025 +0800
+
+    Test
+
+[33mcommit 4338e7e83c86a52213b864c6baf0f6f5658bbc6c[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Fri Jan 24 18:44:51 2025 +0800
+
+    Initial
+
+[33mcommit 364cf45693cedab7e2e1f6bac53cc32c04c8a8db[m
+Author: Ayyum <qaiyyumkamal047@gmail.com>
+Date:   Fri Jan 24 18:35:58 2025 +0800
+
+    Initial Files
+
+[33mcommit 303427d1db4848297a3373d249d75ac14e9e4886[m
+Author: Ayyum <131235213+Qaiyyum47@users.noreply.github.com>
+Date:   Fri Jan 24 18:23:32 2025 +0800
+
+    Initial commit

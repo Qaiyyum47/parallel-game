@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class TilemapToggle : MonoBehaviour
 {
@@ -8,8 +8,8 @@ public class TilemapToggle : MonoBehaviour
     void Start()
     {
         // Get the Tilemap GameObjects from the Grid's children
-        tilemap1 = transform.Find("Tilemap1").gameObject;
-        tilemap2 = transform.Find("Tilemap2").gameObject;
+        tilemap1 = transform.Find("WorldA").gameObject;
+        tilemap2 = transform.Find("WorldB").gameObject;
 
         // Initially disable tilemap2 GameObject, ensure tilemap1 is active
         tilemap1.SetActive(true);

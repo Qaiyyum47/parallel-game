@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 3f; // Horizontal speed of the bubble
-    public float floatSpeed = 2f; // Vertical float speed of the bubble
+    public float floatSpeed = 10f * 10f; // Vertical float speed of the bubble
 
     private Rigidbody2D rb;
     private bool isMirrored = false; // Track whether the bubble is mirrored
