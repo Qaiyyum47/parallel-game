@@ -119,6 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+
 --- !u!1 &43584101
 GameObject:
   m_ObjectHideFlags: 0
@@ -127,6 +128,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+
   - component: {fileID: 43584102}
   m_Layer: 0
   m_Name: start
@@ -135,6 +137,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+
 --- !u!4 &43584102
 Transform:
   m_ObjectHideFlags: 0
@@ -475,8 +478,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: background2 (1)
+  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+  m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &519420034
 MonoBehaviour:
@@ -23216,13 +23219,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 3
   floatSpeed: 3
+
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+
   - {fileID: 1553693781665800648}
   - {fileID: 1121469320}
   - {fileID: 1915624540}
   - {fileID: 1646607316}
+
