@@ -257,6 +257,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1572633491}
 
+
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -403,6 +404,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
+
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
@@ -576,6 +578,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -4178,4 +4181,5 @@ SceneRoots:
   - {fileID: 1769232411}
   - {fileID: 3284261999673385448}
   - {fileID: 644298765}
+
 
