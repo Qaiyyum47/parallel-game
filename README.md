@@ -23,9 +23,3 @@ Special thanks to:
 - Fluid and responsive bubble physics. 🌊
 - Challenging platforming that requires precise movement. ⏱️
 - A unique mechanic of shifting between world to explore new map. 💨
-
----
-
-### License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
