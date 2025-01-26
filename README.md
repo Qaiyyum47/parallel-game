@@ -1,34 +1,31 @@
-# Bubble Parallel
+# 🫧 Bubble Parallel
 
-**Bubble Parallel** is a physics-based platformer where you control a bubble through challenging environments. Your goal is to navigate perilous obstacles and enemies while using your bubble’s air to propel yourself. Be careful, though—if your bubble gets too small, it'll pop!  
+**Bubble Parallel** is a physics-based platformer where you navigate through two parallel worlds as a fragile bubble in this physics-based platformer. Your goal is to navigate perilous obstacles . Be careful, though—if your hit anything, it'll pop! 💥
 
-This game was created during **Global Game Jam Malaysia 2025**, and it’s one of the first games made by a team of four. This was our **first game jam** experience, and we’ve learned a lot through it. We hope you enjoy our creation!
+This game was created during **Global Game Jam Malaysia 2025** 🎮, and it’s one of the first games made by a team of four. This was our **first game jam** experience, and we’ve learned a lot through it. We hope you enjoy our creation! 🎉
 
-### Play the Game
+### Play the Game 🎮
 - **Play on Itch.io:** [Bubble Parallel on Itch.io](https://qaiyyum47.itch.io/bubble-parallel)
 - **Play on Global Game Jam:** [Bubble Parallel on Global Game Jam](https://globalgamejam.org/games/2025/bubble-parallel-3)
 
-### Controls
+### Controls 🎮
 - **A / D** - Move Left / Right
-- **Space** - Switch between worlds
+- **Space** - Switch between worlds 🌍
 
-### Installation Instructions
+### Installation Instructions ⚙️
 1. Download and unzip the game folder.
 2. Run the executable (`BubbleParallel.exe`) to start the game.
 
 Special thanks to:
-- The Global Game Jam for hosting this event and providing an amazing platform to create.
-
-### About the Game
-Float through treacherous environments as a delicate bubble in this physics-based platformer. Master the art of propulsion by releasing air to navigate, but be careful—staying too small for too long will make you pop! A challenging journey that tests your precision and timing, where every movement could be the difference between graceful flight and an untimely pop!
+- The Global Game Jam for hosting this event and providing an amazing platform to create. 🙏
 
 **Key Features:**
-- Fluid and responsive bubble physics.
-- Challenging platforming that requires precise movement.
-- A unique mechanic of inhaling and releasing air to control your bubble's size and movement.
+- Fluid and responsive bubble physics. 🌊
+- Challenging platforming that requires precise movement. ⏱️
+- A unique mechanic of shifting between world to explore new map. 💨
 
 ---
 
-### License
+### License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
